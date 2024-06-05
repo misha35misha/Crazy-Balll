@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "752237273566",
+    "project_id": "app606-1ecf2",
+    "storage_bucket": "app606-1ecf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752237273566:ios:4ce5b338bb3b0b94d1fd4f",
+        "android_client_info": {
+          "package_name": "com.nel.cr4zyb4l1l"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnuZpJfNpEJL-sPWEU_7EK0k_Na3kFyzo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
